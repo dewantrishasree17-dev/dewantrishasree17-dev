@@ -10,7 +10,7 @@ Welcome to my GitHub! This is where I share my projects, experiments, and learni
 - 🌐 Frontend: HTML, CSS, JavaScript (learning)  
 - 🗄 Databases: PostgreSQL,(basics)  
 - 📊 Data Analysis: Python , Excel  
-- 🛠 Tools: Git, GitHub, VS Code  
+- 🛠 Tools:GitHub, VS Code  
 
 ---
 
