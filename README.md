@@ -1,37 +1,49 @@
-#  Hi there, I'm Trishasree  
-
-*Web Developer | Data Analyst (in progress)*  
-
-Welcome to my GitHub! This is where I share my projects, experiments, and learning journey in *web development* and *data analysis*.  
+# Hi, I'm Trishasree Dewan  
 
 ---
 
-## Technologies & Tools  
--  Frontend: HTML, CSS, JavaScript (learning)  
--  Databases: PostgreSQL,(basics)  
--  Data Analysis: Python , Excel  
--  Tools:GitHub, VS Code  
+##  About Me  
+I am an undergraduate student at *National Institute of Technology Agartala, currently pursuing a degree in **Electrical Engineering*.  
+
+Along with my core field, I have developed a strong interest in *programming, problem solving, and modern software technologies*.  
+I love practicing *data structures and algorithms*, learning new tools, and building projects that combine logic with creativity.  
 
 ---
 
-##  What I'm working on  
-- Building web applications to strengthen my front-end skills  
-- Exploring Python for data analysis and visualization  
-- Solving coding problems to improve problem-solving  
+##  What I Do  
+-  Pursuing B.Tech in Electrical Engineering at NIT Agartala  
+-  Exploring *Web Development* and Software Technologies  
+-  Bridging my interest between *IT* and *Core Electrical Engineering*  
 
 ---
 
-##  Collaboration  
-- Open to collaborating on *web dev projects* and *data analysis projects*  
-- Interested in contributing to open-source  
+##  Skills & Interests  
+- *Languages:* C, C++, Python
+- *Databases:* PostgreSQL,MySQL   
+- *Web Technologies:* HTML, CSS, JavaScript (in progress)
+- *Core Concepts:* Data Structures & Algorithms, Object-Oriented Programming
+- *Tools:* Git, GitHub, VS Code  
+- *Areas of Interest:* Software Development, Problem Solving, and Electrical Systems  
 
 ---
 
-##  How to reach me  
+## Project & Work
+-* Loan Management System : * SQL-based project for handling transactions & records
+
+
+---
+
+## Current Goals  
+- Work on *real-world software projects*  
+- Explore opportunities that connect *IT* and *Electrical Engineering*  
+
+---
+
+
+## Let’s Connect  
 -  Email: [dewantrishasree17@gmail.com]  
 -  LinkedIn: [https://www.linkedin.com/in/trishasree-dewan-53681929a]  
 
 ---
 
- Thanks for visiting my GitHub profile! Feel free to explore my repositories.
-
+ “Keep building, keep learning, keep growing.”
