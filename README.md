@@ -1,10 +1,10 @@
-# Hi, I'm Trishasree Dewan  
+# Hi, I'm Trishasree Dewan \
+
 
 ---
 
-###  About Me  
-I am an Electrical Engineering student with an interest in Data Analytics and technology. I enjoy working with data, creating dashboards, and analyzing information using tools like Power BI, Excel, and MySQL. Along with my core knowledge in Power Systems, Machine and Control Systems, I am also exploring programming and analytical tools to solve real-world problems.
----
+##  About Me  
+I am an Electrical Engineering student with an interest in Data Analytics and technology. I enjoy working with data, creating dashboard and analysis information using tools like Power BI, Excel, Python and MySQL. Along with my core knowledge in Power system, Machine and control , I am also exploring programming a nd analytical tools to solve real-world problems.
 
 ##  What I Do  
 -  Pursuing B.Tech in Electrical Engineering at NIT Agartala  
