@@ -2,7 +2,7 @@
 
 ---
 
-##  About Me  
+###  About Me  
 I am an Electrical Engineering student with an interest in Data Analytics and technology. I enjoy working with data, creating dashboards, and analyzing information using tools like Power BI, Excel, and MySQL. Along with my core knowledge in Power Systems, Machine and Control Systems, I am also exploring programming and analytical tools to solve real-world problems.
 ---
 
