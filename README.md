@@ -26,6 +26,7 @@ I am an Electrical Engineering student with an interest in Data Analytics and te
 - *Loan Management System : * SQL-based project for handling transactions & records
 - *Order Summary card : * HTML AND CSS based project .
 - *Off-Grid-PV-System-Simulation
+- *smart-gas-detection-system-arduino
 
 
 ---
