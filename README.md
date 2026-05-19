@@ -3,17 +3,13 @@
 ---
 
 ##  About Me  
-I am an undergraduate student at *National Institute of Technology Agartala, currently pursuing a degree in **Electrical Engineering*.  
-
-Along with my core field, I have developed a strong interest in *programming, problem solving, and modern software technologies*.  
-I love practicing *data structures and algorithms*, learning new tools, and building projects that combine logic with creativity.  
-
+I am an Electrical Engineering student with an interest in Data Analytics and technology. I enjoy working with data, creating dashboards, and analyzing information using tools like Power BI, Excel, and MySQL. Along with my core knowledge in Power Systems, Machine and Control Systems, I am also exploring programming and analytical tools to solve real-world problems.
 ---
 
 ##  What I Do  
 -  Pursuing B.Tech in Electrical Engineering at NIT Agartala  
 -  Exploring *Web Development* and Software Technologies  
--  Bridging my interest between *IT* and *Core Electrical Engineering*  
+-  Bridging my interest between *Core Electrical Engineering and Data Analytics*  
 
 ---
 
@@ -21,9 +17,9 @@ I love practicing *data structures and algorithms*, learning new tools, and buil
 - *Languages:* C, C++, Python
 - *Databases:* PostgreSQL,MySQL   
 - *Web Technologies:* HTML, CSS, JavaScript (in progress)
-- *Core Concepts:* Data Structures & Algorithms, Object-Oriented Programming
-- *Tools:* Git, GitHub, VS Code  
-- *Areas of Interest:* Software Development, Problem Solving, and Electrical Systems  
+- *Core Concepts:* Power System, Machine, Control System
+- *Tools:* MATLAB, Arduino, Git, GitHub, VS Code  
+- *Areas of Interest:* Electrical Systems, Data Analytics
 
 ---
 
