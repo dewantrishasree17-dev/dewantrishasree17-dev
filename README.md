@@ -4,12 +4,11 @@
 ---
 
 ##  About Me  
-I am an Electrical Engineering student with an interest in Data Analytics and technology. I enjoy working with data, creating dashboard and analysis information using tools like Power BI, Excel, Python and MySQL. Along with my core knowledge in Power system, Machine and control , I am also exploring programming a nd analytical tools to solve real-world problems.
+I am an Electrical Engineering student with an interest in Data Analytics and technology. I enjoy working with data, creating dashboard and analysis information using tools like Power BI, Excel, Python and MySQL. Along with my core knowledge in Power system, Machine and control , I am also exploring programming and analytical tools to solve real-world problems.
 
 ##  What I Do  
 -  Pursuing B.Tech in Electrical Engineering at NIT Agartala  
--  Exploring *Web Development* and Software Technologies  
--  Bridging my interest between *Core Electrical Engineering and Data Analytics*  
+-  Exploring  *Core Electrical Engineering and Data Analytics*    
 
 ---
 
@@ -32,8 +31,8 @@ I am an Electrical Engineering student with an interest in Data Analytics and te
 ---
 
 ## Current Goals  
-- Work on *real-world software projects*  
-- Explore opportunities that connect *IT* and *Electrical Engineering*  
+- Work on *Practical and data-driven projects*  
+- Explore opportunities that connect *Data Analytics* and *Electrical Engineering*  
 
 ---
 
