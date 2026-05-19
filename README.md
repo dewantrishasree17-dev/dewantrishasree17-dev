@@ -1,4 +1,4 @@
-# Hi, I'm Trishasree Dewan \
+# Hi, I'm Trishasree Dewan 
 
 
 ---
@@ -14,7 +14,7 @@ I am an Electrical Engineering student with an interest in Data Analytics and te
 
 ##  Skills & Interests  
 - *Languages:* C, C++, Python
-- *Databases:* PostgreSQL,MySQL   
+- *Databases:* PostgreSQL, MySQL   
 - *Web Technologies:* HTML, CSS, JavaScript (in progress)
 - *Core Concepts:* Power System, Machine, Control System
 - *Tools:* MATLAB, Arduino, Git, GitHub, VS Code  
